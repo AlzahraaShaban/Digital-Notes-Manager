@@ -25,22 +25,22 @@ A powerful, lightweight note-taking application built with Clean Architecture, E
    - Validation – Ensures valid user inputs for login and signup.
 
 📂 File Operations (MenuStrip)
-   File Menu:
-   - New – Create a new note.
-   - Open – Open an existing .txt or .rtf file.
-   - Save – Save the current note.
-   - Exit – Close the application.
+   - File Menu:
+      - New – Create a new note.
+      - Open – Open an existing .txt or .rtf file.
+      - Save – Save the current note.
+      - Exit – Close the application.
      
-   Edit Menu:
-   - Cut, Copy, Paste – Standard text editing options.
-   - Format – Apply bold, italic, and underline styles.
+   - Edit Menu:
+      - Cut, Copy, Paste – Standard text editing options.
+      - Format – Apply bold, italic, and underline styles.
      
-   View Menu:
-   - Notes List – View all notes.
-   - Arrange Windows – Organize windows as Tile or Cascade
+   - View Menu:
+      - Notes List – View all notes.
+      - Arrange Windows – Organize windows as Tile or Cascade
      
-   Help Menu:
-   - About – Opens an "About" form with app details.
+   - Help Menu:
+      - About – Opens an "About" form with app details.
   
 ⏰ Reminder & Alarm System
    - Alarm Button – Displays an image-based button to set reminders.
@@ -52,11 +52,6 @@ A powerful, lightweight note-taking application built with Clean Architecture, E
    - GridView for Notes – View and manage notes efficiently.
    - Customizable UI per Category – Change UI style & color dynamically when selecting a category.
      
-##  🛠Tools :
-- Database Management System: SQL Server .
-- Entity Relationship Diagram & Mapping :Draw.io
-
-
 ## 🛠️ Code Overview
 🖥️ User Interface (UI)
   - WinForms-based Panel & GridView for displaying notes.

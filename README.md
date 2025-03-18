@@ -1,5 +1,5 @@
 # 📒 Digital Notes Manager
-A powerful, lightweight note-taking application built with Clean Architecture, Entity Framework (Code First), and Windows Forms (WinForms). It offers user authentication, note categorization, reminders, and rich text editing.
+A Powerful, lightweight Digital Note Manager Application built with Clean Architecture, Entity Framework (Code First), and Windows Forms (WinForms). It offers user authentication, note categorization, reminders, and rich text editing or checkboxe for efficient and organized note management.
 
 ## 📦 Architecture & Tech Stack
    - Clean Architecture – Organized into layers (UI, Application, Domain, Infrastructure).

@@ -71,13 +71,16 @@ A powerful, lightweight note-taking application built with Clean Architecture, E
   - Search by content or category.
 
 ## 🚀Get Started:
-- Clone the Repository : 
-Start by cloning the repository to your local environment.
+- Clone the Repository : Start by cloning the repository to your local environment.
+``` git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+   cd DigitalNotesManager
+```
 - Setup the Database
      -Ensure you have SQL Server installed.
      -Open Package Manager Console in Visual Studio and run:
-      ```sh
-      Update-Database
+```sh
+Update-Database
+```
 - Run the Application
 
 You're welcome to edit or add more sections if needed! 😊

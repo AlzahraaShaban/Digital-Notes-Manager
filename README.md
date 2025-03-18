@@ -74,7 +74,11 @@ A powerful, lightweight note-taking application built with Clean Architecture, E
 - Clone the Repository : 
 Start by cloning the repository to your local environment.
 - Setup the Database
-- Run the Application:
+     -Ensure you have SQL Server installed.
+     -Open Package Manager Console in Visual Studio and run:
+      ```sh
+      Update-Database
+- Run the Application
 
 You're welcome to edit or add more sections if needed! 😊
 

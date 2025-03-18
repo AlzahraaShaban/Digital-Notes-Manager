@@ -72,7 +72,8 @@ A powerful, lightweight note-taking application built with Clean Architecture, E
 
 ## 🚀Get Started:
 - Clone the Repository : Start by cloning the repository to your local environment.
-``` git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+```sh
+   git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
    cd DigitalNotesManager
 ```
 - Setup the Database

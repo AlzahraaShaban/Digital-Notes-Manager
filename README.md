@@ -73,12 +73,8 @@ A powerful, lightweight note-taking application built with Clean Architecture, E
 ## 🚀Get Started:
 - Clone the Repository : 
 Start by cloning the repository to your local environment.
-
-- Set Up the Database : 
-Use Microsoft SQL Server to configure the database. The necessary stored procedures and scripts are included in the repository to streamline the setup process.
-
-- Explore and Extend : 
-Once the setup is complete, you can explore the system. Modify existing sections or add new ones to tailor the project to your needs.
+- Setup the Database
+- Run the Application:
 
 You're welcome to edit or add more sections if needed! 😊
 
